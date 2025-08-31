@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AYcb5p96BQc=",
+  "dgSpecHash": "q4hILOMfZQ8=",
   "success": true,
-  "projectFilePath": "/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/FabFilterKeyGen.csproj",
+  "projectFilePath": "/home/esther/Documents/GitHub/fabfilterKG/FabFilterKeyGen/FabFilterKeyGen/FabFilterKeyGen.csproj",
   "expectedPackageFiles": [
     "/home/esther/.nuget/packages/microsoft.dotnet.ilcompiler/9.0.8/microsoft.dotnet.ilcompiler.9.0.8.nupkg.sha512",
     "/home/esther/.nuget/packages/microsoft.net.illink.tasks/9.0.8/microsoft.net.illink.tasks.9.0.8.nupkg.sha512",

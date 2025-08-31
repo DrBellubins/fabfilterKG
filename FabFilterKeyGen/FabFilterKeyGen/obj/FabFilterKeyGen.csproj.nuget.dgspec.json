@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/FabFilterKeyGen.csproj": {}
+    "/home/esther/Documents/GitHub/fabfilterKG/FabFilterKeyGen/FabFilterKeyGen/FabFilterKeyGen.csproj": {}
   },
   "projects": {
-    "/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/FabFilterKeyGen.csproj": {
+    "/home/esther/Documents/GitHub/fabfilterKG/FabFilterKeyGen/FabFilterKeyGen/FabFilterKeyGen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/FabFilterKeyGen.csproj",
+        "projectUniqueName": "/home/esther/Documents/GitHub/fabfilterKG/FabFilterKeyGen/FabFilterKeyGen/FabFilterKeyGen.csproj",
         "projectName": "FabFilterKeyGen",
-        "projectPath": "/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/FabFilterKeyGen.csproj",
+        "projectPath": "/home/esther/Documents/GitHub/fabfilterKG/FabFilterKeyGen/FabFilterKeyGen/FabFilterKeyGen.csproj",
         "packagesPath": "/home/esther/.nuget/packages/",
-        "outputPath": "/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/obj/",
+        "outputPath": "/home/esther/Documents/GitHub/fabfilterKG/FabFilterKeyGen/FabFilterKeyGen/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/esther/.nuget/NuGet/NuGet.Config"

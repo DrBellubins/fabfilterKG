@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FabFilterKeyGen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7da03e6f754ef2695ad4e88109c41f37e2554385")]
 [assembly: System.Reflection.AssemblyProductAttribute("FabFilterKeyGen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FabFilterKeyGen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

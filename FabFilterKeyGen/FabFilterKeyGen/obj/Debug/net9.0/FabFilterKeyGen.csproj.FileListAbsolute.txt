@@ -1,0 +1,14 @@
+/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/bin/Debug/net9.0/FabFilterKeyGen
+/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/bin/Debug/net9.0/FabFilterKeyGen.deps.json
+/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/bin/Debug/net9.0/FabFilterKeyGen.runtimeconfig.json
+/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/bin/Debug/net9.0/FabFilterKeyGen.dll
+/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/bin/Debug/net9.0/FabFilterKeyGen.pdb
+/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/obj/Debug/net9.0/FabFilterKeyGen.GeneratedMSBuildEditorConfig.editorconfig
+/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/obj/Debug/net9.0/FabFilterKeyGen.AssemblyInfoInputs.cache
+/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/obj/Debug/net9.0/FabFilterKeyGen.AssemblyInfo.cs
+/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/obj/Debug/net9.0/FabFilterKeyGen.csproj.CoreCompileInputs.cache
+/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/obj/Debug/net9.0/FabFilterKeyGen.dll
+/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/obj/Debug/net9.0/refint/FabFilterKeyGen.dll
+/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/obj/Debug/net9.0/FabFilterKeyGen.pdb
+/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/obj/Debug/net9.0/FabFilterKeyGen.genruntimeconfig.cache
+/home/esther/Documents/FabFilterKeyGen/FabFilterKeyGen/obj/Debug/net9.0/ref/FabFilterKeyGen.dll
